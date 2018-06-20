@@ -1,5 +1,5 @@
 {
-  "name": "react-calendar",
+  "name": "@ljxau/react-calendar",
   "version": "2.15.2",
   "description": "Ultimate calendar for your React app.",
   "main": "dist/entry.js",
@@ -101,6 +101,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wojtekmaj/react-calendar.git"
+    "url": "https://github.com/ljxau/react-calendar"
   }
 }
